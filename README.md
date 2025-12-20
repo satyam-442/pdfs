@@ -1,37 +1,16 @@
-<table width="800" align="left" cellpadding="0" cellspacing="0" border="0">
+<!-- FORCE OUTLOOK LAYOUT RESET -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt;">
+  <tr>
+    <td height="20" style="line-height:20px; font-size:1px;">&nbsp;</td>
+  </tr>
+</table>
+
+<!-- SIGNATURE BLOCK -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt;">
   <tr>
     <td>
-
-      <table width="800" cellpadding="4" cellspacing="0" border="1" style="border-collapse:collapse;">
-        <tr>
-          <th width="200" align="left">Major Problem or P2</th>
-          <th width="200" align="left">Advancement to Known Error State Due</th>
-          <th width="200" align="left">Root Cause Analysis (RCA) Due</th>
-          <th width="200" align="left">Problem Closure Due</th>
-        </tr>
-
-        <tr>
-          <td width="200">Yes, Major Problem</td>
-          <td width="200">5 calendar days</td>
-          <td width="200">14 calendar days</td>
-          <td width="200">30 calendar days</td>
-        </tr>
-
-        <tr>
-          <td width="200">P2*</td>
-          <td width="200">10 calendar days</td>
-          <td width="200">14 calendar days</td>
-          <td width="200">60 calendar days</td>
-        </tr>
-
-        <tr>
-          <td width="200">Neither Major Problem nor P2</td>
-          <td width="200">10 calendar days</td>
-          <td width="200">60 calendar days</td>
-          <td width="200">90 calendar days</td>
-        </tr>
-      </table>
-
+      Regards,<br>
+      <b>4DATA Service Desk</b>
     </td>
   </tr>
 </table>
